@@ -1,5 +1,5 @@
-#ifndef ACTIVITY1_H_INCLUDED
-#define ACTIVITY1_H_INCLUDED
+#ifndef CASE1_H_INCLUDED
+#define CASE1_H_INCLUDED
 
 #include <avr/io.h>
 #include<util/delay.h>
