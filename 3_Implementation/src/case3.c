@@ -1,5 +1,5 @@
-#include "activity2.h"
-#include "activity3.h"
+#include "case2.h"
+#include "case3.h"
 
 void adc_initialization()
 {
