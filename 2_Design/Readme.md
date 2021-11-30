@@ -6,3 +6,6 @@
 
 ## Flow Diagram
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/94183432/144081834-97021358-b6a3-4bca-a1ec-d1a5edfd9858.png)
+
+# Bill Of Materials
+
