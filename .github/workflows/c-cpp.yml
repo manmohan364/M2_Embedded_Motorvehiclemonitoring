@@ -1,22 +1,16 @@
 name: C/C++ CI
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+push:
+branches: [ main ]
+pull_request:
 
 jobs:
-  build:
+build:
+ runs-on: ubuntu-latest
 
-    runs-on: ubuntu-latest
+  steps:
+ - uses: actions/checkout@v2
 
-    steps:
-    - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
+  name: make build 
+  run: make build -C 3_Implementation/
