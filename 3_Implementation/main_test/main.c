@@ -1,8 +1,8 @@
 #include <avr/io.h>
 #include<util/delay.h>
-#include "activity1.h"
-#include "activity2.h"
-#include"activity3.h"
+#include "case1.h"
+#include "case2.h"
+#include"case3.h"
 int main()
 {
     seat_sensing();
