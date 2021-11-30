@@ -1,4 +1,4 @@
-#include "activity1.h"
+#include "case1.h"
 
 void seat_sensing(){
     DDRD|=(1<<PD2); //Set D2= 1
