@@ -10,3 +10,8 @@ In our project, the main aim is to design and develop a system that is capable o
  
  # CODACY BADGE
  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a61cbc89193f46da96b5ad0a80705717)](https://www.codacy.com/gh/manmohan364/M2_Embedded_Motorvehiclemonitoring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manmohan364/M2_Embedded_Motorvehiclemonitoring&amp;utm_campaign=Badge_Grade)
+# Code Quality score
+[![Code Quality](https://api.codiga.io/project/30193/score/svg)
+
+# Code Grade
+[![Code Grade](https://api.codiga.io/project/30193/status/svg)
