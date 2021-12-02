@@ -10,7 +10,7 @@ As long as the V.M.S. is up and running and is powered on, it will keep on doing
 specified activities as has been tasked to do so.
 In our project, the main aim is to design and develop a system that is capable of monitoring the passenger's existence and Heat Monitoring and Displaying.
 
-# Research
+# Research 🚘
 The vehicle monitoring system serves a lot of purposes based on the environment in
 which it is deployed in. It can be configured, modified or redesigned with ease to act
 accordingly, as and when needed, based on the requirements of the environment.Comfort Control Systems do more for us today than ever before. They are in charge of keeping your air clean, cooling your car down on a hot summers day, and Keeping your car going at a single speed using Cruise Control.This microcontroller is used in a large number of machines like automobiles as it can be easily integrated around a machine.
