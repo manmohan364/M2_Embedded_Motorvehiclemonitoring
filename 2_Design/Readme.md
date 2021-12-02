@@ -8,4 +8,11 @@
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/94183432/144081834-97021358-b6a3-4bca-a1ec-d1a5edfd9858.png)
 
 # Bill Of Materials
-
+Bill of Materials:                                                                         
+LCD Hd44780-1 : Hd44780                                                                
+Led-13 : Led                                                                                                       
+Led-2 : Led                                                                                         
+Potentiometer-12 : Potentiometer 1 kO                                                        
+Push-5 : Push                                                                                                             
+Resistor-3 : Resistor 100 O                                                                                                
+atmega328-6 : atmega328    
